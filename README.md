@@ -7,7 +7,7 @@
 ---
 
 <h1 align="center">
-<img width="768" height="643" alt="Capture d’écran 2025-12-15 223927" src="[https://github.com/user-attachments/assets/123870a9-6936-40a9-8beb-3ba1f4ee50ad](https://github.com/user-attachments/assets/3f4bb5fb-9504-4268-bd36-bfa3b3eaaece)" />
+<img width="768" height="643" alt="Capture d’écran 2025-12-15 223927" src="https://github.com/user-attachments/assets/123870a9-6936-40a9-8beb-3ba1f4ee50ad](https://github.com/user-attachments/assets/3f4bb5fb-9504-4268-bd36-bfa3b3eaaece" />
 <p align="center">
 
 ## ✨ Features & Improvements
