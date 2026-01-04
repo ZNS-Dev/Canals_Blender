@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\collo\\OneDrive\\Dokumente\\GitHub\\DEV_Canals_Blender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A463DE37-7F18-C1D8-365C-44C00CFF8C15}|RGB_CanalsBlender.csproj|c:\\users\\collo\\onedrive\\dokumente\\github\\dev_canals_blender\\rgb_canalsblender\\canalsblender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A463DE37-7F18-C1D8-365C-44C00CFF8C15}|RGB_CanalsBlender.csproj|solutionrelative:rgb_canalsblender\\canalsblender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanalsBlender.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\collo\\OneDrive\\Dokumente\\GitHub\\DEV_Canals_Blender\\RGB_CanalsBlender\\CanalsBlender.cs",
+              "RelativeDocumentMoniker": "RGB_CanalsBlender\\CanalsBlender.cs",
+              "ToolTip": "C:\\Users\\collo\\OneDrive\\Dokumente\\GitHub\\DEV_Canals_Blender\\RGB_CanalsBlender\\CanalsBlender.cs [Design]",
+              "RelativeToolTip": "RGB_CanalsBlender\\CanalsBlender.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T16:21:44.226Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
