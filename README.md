@@ -1,4 +1,4 @@
-Canals Blender 1.1.0
+<h1># Canals Blender 1.1.0</h1>
 <p align="center">
   <b>A modern, reworked Canals Blender</b><br>
   <i>Cleaner • Faster • More Reliable</i>
