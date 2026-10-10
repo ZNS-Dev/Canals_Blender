@@ -1,4 +1,4 @@
-<h1 align="center">Canals Blender 1.0 ⚡</h1>
+Canals Blender 1.1.0
 <p align="center">
   <b>A modern, reworked Canals Blender</b><br>
   <i>Cleaner • Faster • More Reliable</i>
@@ -12,7 +12,7 @@
 
 ## ✨ Features & Improvements
 
-- 🎨 Fully redesigned UI: minimal, clean, and user-friendly.
+- 🎨 Package Amibant Oclusion, Opacity, Specular, Mettalic with one texture!
 - 🔧 Corrections and optimizations of the old tool.
 
 ---
